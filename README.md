@@ -53,17 +53,20 @@ The cryptocurrencies with the highest circulating supply include well-known coin
   10) Correlation Heatmap
 A heatmap of correlations between various attributes shows strong correlations between market cap, circulating supply, and total supply. Price and trading volume also show a positive correlation.
 
+
 ![image](https://github.com/khorkina/Cryptocurrency-Dataset-Analysis-Report/assets/166530415/9707a7a7-fb8c-4a93-95e9-94b16470342a)
 
 
   12) Price vs Circulating Supply
 The scatter plot of price versus circulating supply shows that cryptocurrencies with lower circulating supplies tend to have higher prices, likely due to scarcity.
 
+
 ![image](https://github.com/khorkina/Cryptocurrency-Dataset-Analysis-Report/assets/166530415/3cfaa957-9493-48df-b4dd-4b0cf26f867b)
 
 
   9) Price Time Series for Top Cryptocurrency
 Analyzing the time series of the top cryptocurrency (Bitcoin) shows significant price fluctuations over time, reflecting the volatility of the cryptocurrency market.
+
 
 ![image](https://github.com/khorkina/Cryptocurrency-Dataset-Analysis-Report/assets/166530415/3319d19e-2bfe-4702-83a5-0e8c5833999c)
 
